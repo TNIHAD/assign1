@@ -1,0 +1,158 @@
+
+.banner-container{
+    max-width: 1320px;
+    max-height: 600px;
+   background-image: linear-gradient(to top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 1) 100%),url('../resources/Banner\ Image.png');
+    background-size:contain;
+    background-repeat: no-repeat;
+    margin: 50px 140px;
+}
+.heading-container{
+    color: white;
+    text-align: center;
+    padding: 8px;
+    font-size: 35px;
+}
+
+.offer-container{
+    max-width: 803px;
+    max-height: 806px;
+    margin: auto;
+    text-align: center;
+    padding: 0px;
+
+}
+.red{
+    color: red;
+    padding: 0px 210px;
+}
+
+.head-red{
+    font-weight: bold;
+    font-size: 48px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.welcome-container{
+    display: flex;
+    justify-content: space-around;
+    background-image:  linear-gradient(to top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 2) 100%), url('../resources/Vectorrr.png'); 
+    max-width: 1320px;
+    background-size:contain;
+    background-repeat: no-repeat;
+    margin: 50px 140px;
+}
+.welcome{
+    color: white;
+    padding: 36px;
+}
+.welcome-head{
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+.imagew{
+    padding: 38px;
+    max-width: 180px;
+    max-height: 244px;
+}
+.info-container{
+    max-width: 1320px;
+    max-height: 482px;
+    margin: 50px 140px;
+    padding: 20px;
+    text-align: center;
+    font-weight: 600px;
+    background: linear-gradient(to top, #ffffff 0%, #f7e4d0 41%);
+}
+.red-info{
+    color: red;
+}
+.btn{
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 5px;
+}
+.redo{
+    color: red;
+}
+.round-pic{
+    padding: 15px;
+    border: 4px solid red;
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+   
+}
+.coming-soon{
+    display: flex;
+    justify-content: space-around;
+    max-width: 1320px;
+    margin: 50px 120px;
+    align-items: center;
+}
+.coming1{
+    text-align: center;
+}
+#year{
+color: red;
+}
+.portfolio{
+    max-width: 1320px;
+    max-height: 1163px;
+    margin: 40px 140px;
+    
+}
+.holidays-sale{
+    max-width: 1320px;
+    margin: 40px 140px;
+}
+.img1{
+    display: flex;
+    gap: 8px;
+
+}
+.img2{
+    display: flex;
+    gap: 8px;
+}
+.Newsletter{
+    padding: 20px;
+    text-align: center;
+    margin: 50px 140px;
+    background-color: rgb(243, 239, 234);
+}
+.button{
+    padding: 3px;
+    border-radius: 20px;
+    background-color: white;
+    text-decoration: none;
+}
+.spbtn{
+    background-color: red;
+}
+.footer-container{
+    margin: 50px 140px;
+    background-color: black;
+    color: white;
+}
+.footer-cont{
+    display: flex;
+  justify-content: space-around;
+
+}
+.logo{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+.last-part{
+    display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+    font-size: x-small;
+    justify-content: space-between;
+}
