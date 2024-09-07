@@ -5,7 +5,7 @@
    background-image: linear-gradient(to top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 1) 100%),url('../resources/Banner\ Image.png');
     background-size:contain;
     background-repeat: no-repeat;
-    margin: 50px 140px;
+    margin: 50px auto;
 }
 .heading-container{
     color: white;
@@ -39,7 +39,7 @@
     max-width: 1320px;
     background-size:contain;
     background-repeat: no-repeat;
-    margin: 50px 140px;
+    margin: 50px auto;
 }
 .welcome{
     color: white;
@@ -58,7 +58,7 @@
 .info-container{
     max-width: 1320px;
     max-height: 482px;
-    margin: 50px 140px;
+    margin: 50px auto;
     padding: 20px;
     text-align: center;
     font-weight: 600px;
@@ -89,7 +89,7 @@
     display: flex;
     justify-content: space-around;
     max-width: 1320px;
-    margin: 50px 120px;
+    margin: 50px auto;
     align-items: center;
 }
 .coming1{
@@ -101,12 +101,12 @@ color: red;
 .portfolio{
     max-width: 1320px;
     max-height: 1163px;
-    margin: 40px 140px;
+    margin: 50px auto;
     
 }
 .holidays-sale{
     max-width: 1320px;
-    margin: 40px 140px;
+    margin: 50px auto;
 }
 .img1{
     display: flex;
@@ -120,7 +120,7 @@ color: red;
 .Newsletter{
     padding: 20px;
     text-align: center;
-    margin: 50px 140px;
+    margin: 50px auto;
     background-color: rgb(243, 239, 234);
 }
 .button{
@@ -140,7 +140,6 @@ color: red;
 .footer-cont{
     display: flex;
   justify-content: space-around;
-
 }
 .logo{
     display: block;
